@@ -2,7 +2,7 @@
 
 Educational materials for the QSIP Quantum Hackathon (5–6 November 2026).
 
-**[Hackathon event](https://enccs.se/event/qsip-hackathon-quantum-cryptography-qml/)** · Website hosted using GitHub Pages
+**[Hackathon event](https://enccs.se/event/qsip-hackathon-quantum-cryptography-qml/)** 
 
 ## The challenges
 
