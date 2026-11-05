@@ -1,0 +1,9 @@
+# Public Binder: Qiskit simulator only; no IQM credentials.
+numpy>=1.26,<3
+scipy>=1.13,<2
+networkx>=3.3,<4
+matplotlib>=3.8,<4
+qiskit>=2.0,<3
+qiskit-aer>=0.17,<1
+ipykernel>=6,<8
+jupyterlab>=4,<5

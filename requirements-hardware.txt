@@ -1,0 +1,3 @@
+-r requirements.txt
+# Official IQM Qiskit integration (not the deprecated qiskit-iqm package)
+iqm-client[qiskit]>=36,<37
